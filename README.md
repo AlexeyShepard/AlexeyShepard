@@ -33,7 +33,9 @@
 
 ### Social link
 
-![vk](https://img.shields.io/badge/vkontakte-darkcyan?style=social&logo=vk&link=https%3A%2F%2Fvk.com%2Fgtfo_gtfo_gtfo)
+![vk](https://img.shields.io/badge/gtfo__gtfo__gtfo-darkcyan?style=social&logo=vk&link=https%3A%2F%2Fvk.com%2Fgtfo_gtfo_gtfo)
+![tg](https://img.shields.io/badge/gtfo__gtfo__gtfo-darkcyan?style=social&logo=telegram&link=https%3A%2F%2Ft.me%2Fgtfo_gtfo_gtfo)
+
 
 
 
