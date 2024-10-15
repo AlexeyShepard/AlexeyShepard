@@ -31,6 +31,11 @@
 
 ![Docker](https://img.shields.io/badge/docker-blue?style=for-the-badge)
 
+### Social link
+
+![vk](https://img.shields.io/badge/vkontakte-darkcyan?style=social&logo=vk&link=https%3A%2F%2Fvk.com%2Fgtfo_gtfo_gtfo)
+
+
 
 
 
