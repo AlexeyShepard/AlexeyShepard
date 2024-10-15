@@ -9,6 +9,10 @@
 ![Python3.12](https://img.shields.io/badge/Python-3.12-purple?style=for-the-badge)
 ![Django](https://img.shields.io/badge/Django-cyan?style=for-the-badge)
 ![FastApi](https://img.shields.io/badge/FastApi-green?style=for-the-badge)
+![sqlalchemy](https://img.shields.io/badge/sqlalchemy-yellow?style=for-the-badge)
+![Pydantic](https://img.shields.io/badge/pydantic-darkcyan?style=for-the-badge)
+
+
 
 ### Database
 
