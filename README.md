@@ -6,7 +6,7 @@
 
 ### Stack
 
-![Static Badge](https://img.shields.io/badge/Python?style=flat-square&labelColor=FFFFFF&color=B04AFF)
+![Python](https://img.shields.io/badge/python-purple?style=for-the-badge)
 
 
 </div>
