@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![:AlexeyShepard](![:AlexeyShepard](https://count.getloli.com/get/@:AlexeyShepard)
+
 <!--
 **AlexeyShepard/AlexeyShepard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
