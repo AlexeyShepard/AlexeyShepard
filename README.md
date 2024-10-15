@@ -6,7 +6,15 @@
 
 ### Stack
 
-![Python](https://img.shields.io/badge/python-purple?style=for-the-badge)
+![Python3.12](https://img.shields.io/badge/Python-3.12-purple?style=for-the-badge)
+![Django](https://img.shields.io/badge/Django-cyan?style=for-the-badge)
+![FastApi](https://img.shields.io/badge/FastApi-green?style=for-the-badge)
+![Swagger](https://img.shields.io/badge/Swagger-darkgreen?style=for-the-badge)
+![Postman](https://img.shields.io/badge/postman-orange?style=for-the-badge)
+
+
+
+
 
 
 </div>
