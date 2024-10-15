@@ -9,8 +9,29 @@
 ![Python3.12](https://img.shields.io/badge/Python-3.12-purple?style=for-the-badge)
 ![Django](https://img.shields.io/badge/Django-cyan?style=for-the-badge)
 ![FastApi](https://img.shields.io/badge/FastApi-green?style=for-the-badge)
-![Swagger](https://img.shields.io/badge/Swagger-darkgreen?style=for-the-badge)
+
+### Database
+
+![PostgreSql](https://img.shields.io/badge/postgresql-darkblue?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/mysql-darkcyan?style=for-the-badge)
+
+### Testing
+
+![PyTest](https://img.shields.io/badge/pytest-red?style=for-the-badge)
+![Selenium](https://img.shields.io/badge/selenium-gray?style=for-the-badge)
+![Playwright](https://img.shields.io/badge/playwright-purple?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/postman-orange?style=for-the-badge)
+![Swagger](https://img.shields.io/badge/Swagger-darkgreen?style=for-the-badge)
+
+### Other
+
+![Docker](https://img.shields.io/badge/docker-blue?style=for-the-badge)
+
+
+
+
+
+
 
 
 
