@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hi there 👋
+## Thx for visit my pythonic page 🐸
 
 ![:AlexeyShepard](https://count.getloli.com/get/@:AlexeyShepard)
 
