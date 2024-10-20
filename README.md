@@ -22,7 +22,6 @@
 ### Testing
 
 ![PyTest](https://img.shields.io/badge/pytest-red?style=for-the-badge)
-![Selenium](https://img.shields.io/badge/selenium-gray?style=for-the-badge)
 ![Playwright](https://img.shields.io/badge/playwright-purple?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/postman-orange?style=for-the-badge)
 ![Swagger](https://img.shields.io/badge/Swagger-darkgreen?style=for-the-badge)
